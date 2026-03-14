@@ -1,14 +1,12 @@
-# Álvaro Díaz Vidal
-
 **Senior Frontend Engineer**
 
 Asturias, Spain
 
 varodv@gmail.com
 
-[LinkedIn](https://www.linkedin.com/in/álvaro-díaz-vidal-107311144)
+[LinkedIn](https://www.linkedin.com/in/álvaro-díaz-vidal-107311144){:target="_blank"}
 
-[GitHub](https://github.com/varodv)
+[GitHub](https://github.com/varodv){:target="_blank"}
 
 ---
 
