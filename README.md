@@ -1,8 +1,3 @@
----
-layout: default
-title: Home
----
-
 # Professional Profile
 
 **Senior Frontend Engineer & Tech Lead** with over **10 years of experience** building scalable web applications and leading development teams.
