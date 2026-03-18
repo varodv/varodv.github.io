@@ -69,61 +69,25 @@ Eager to contribute to teams developing scalable and user-centric products.
 
 # Professional Experience
 
-## Espiral MS
+## Empathy.co
 
-**Software Engineer Intern** - Gijón
+**Tech Lead** - Gijón
 
-June 2014 – September 2014
+May 2018 – February 2026
 
-Developed a solution for IT asset, service, and process management.
-
-**Responsibilities and achievements:**
-
-- Developed an integrated help system for Proactivanet and Prosafety products.
-
-**Technologies:**
-
-HTML, JavaScript, CSS.
-
----
-
-## Polytechnic School of Engineering of Gijón
-
-**Full Stack Developer** - Gijón
-
-February 2014 – October 2014
-
-Developed a system for the autonomous and remote energy management and optimization of computer equipment.
+Led the development of advanced search and discovery solutions for large e-commerce platforms.
 
 **Responsibilities and achievements:**
 
-- Developed the SIGEON system.
-- Defined and planned the project across all development phases.
-- Integrated the system into the organization's infrastructure.
+- Managed and mentored development teams, overseeing both technical direction and personal growth.
+- Defined technical requirements and project specifications.
+- Designed and defined system architecture.
+- Managed project priorities and resource allocation.
+- Facilitated cross-functional communication and resolved technical impediments.
 
 **Technologies:**
 
-HTML, JavaScript, CSS, .NET, SQL, C++.
-
----
-
-## Seresco
-
-**Frontend Engineer** - Oviedo
-
-April 2015 – July 2017
-
-Developed software solutions for human resources management and occupational risk prevention.
-
-**Responsibilities and achievements:**
-
-- Led frontend development for the application.
-- Continuously integrated new functional modules.
-- Supervised and maintained code quality standards.
-
-**Technologies:**
-
-HTML, JavaScript, CSS, Spring, Hibernate, Jenkins.
+Vue.js, React, TypeScript, Sass, TailwindCSS, Webpack, Vite, Lerna (monorepo).
 
 ---
 
@@ -147,25 +111,61 @@ Vue.js, TypeScript, Sass, D3, Webpack, Python.
 
 ---
 
-## Empathy.co
+## Seresco
 
-**Tech Lead** - Gijón
+**Frontend Engineer** - Oviedo
 
-May 2018 – February 2026
+April 2015 – July 2017
 
-Led the development of advanced search and discovery solutions for large e-commerce platforms.
+Developed software solutions for human resources management and occupational risk prevention.
 
 **Responsibilities and achievements:**
 
-- Managed and mentored development teams, overseeing both technical direction and personal growth.
-- Defined technical requirements and project specifications.
-- Designed and defined system architecture.
-- Managed project priorities and resource allocation.
-- Facilitated cross-functional communication and resolved technical impediments.
+- Led frontend development for the application.
+- Continuously integrated new functional modules.
+- Supervised and maintained code quality standards.
 
 **Technologies:**
 
-Vue.js, React, TypeScript, Sass, TailwindCSS, Webpack, Vite, Lerna (monorepo).
+HTML, JavaScript, CSS, Spring, Hibernate, Jenkins.
+
+---
+
+## Polytechnic School of Engineering of Gijón
+
+**Full Stack Developer** - Gijón
+
+February 2014 – October 2014
+
+Developed a system for the autonomous and remote energy management and optimization of computer equipment.
+
+**Responsibilities and achievements:**
+
+- Developed the SIGEON system.
+- Defined and planned the project across all development phases.
+- Integrated the system into the organization's infrastructure.
+
+**Technologies:**
+
+HTML, JavaScript, CSS, .NET, SQL, C++.
+
+---
+
+## Espiral MS
+
+**Software Engineer Intern** - Gijón
+
+June 2014 – September 2014
+
+Developed a solution for IT asset, service, and process management.
+
+**Responsibilities and achievements:**
+
+- Developed an integrated help system for Proactivanet and Prosafety products.
+
+**Technologies:**
+
+HTML, JavaScript, CSS.
 
 ---
 
