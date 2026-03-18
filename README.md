@@ -84,6 +84,7 @@ Led the development of advanced search and discovery solutions for large e-comme
 - Designed and defined system architecture.
 - Managed project priorities and resource allocation.
 - Facilitated cross-functional communication and resolved technical impediments.
+- Partnered with one of the biggest grocery companies in the USA to deliver tailored e-commerce solutions.
 
 **Technologies:**
 
