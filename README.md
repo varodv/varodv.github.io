@@ -14,70 +14,13 @@ Eager to contribute to teams developing scalable and user-centric products.
 
 # Tech Stack
 
-## Languages
-
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- Python
-- Java
-- C#
-- SQL
-
-## Frontend
-
-- React
-- Vue.js
-- Next.js
-- Nuxt
-- TanStack Query
-- Zustand
-- Pinia
-- Server-side rendering (SSR)
-- Sass
-- CSS Modules
-- TailwindCSS
-- D3
-- Recharts
-- Storybook
-- Vite
-- Webpack
-- Rollup
-- ESLint
-- Prettier
-
-## Backend
-
-- Node.js
-- Spring
-- .NET
-- MongoDB
-- PostgreSQL
-- Redis
-
-## Testing
-
-- Jest
-- Vitest
-- Cypress
-- Playwright
-
-## Tools
-
-- Git
-- npm
-- pnpm
-- Lerna
-- GitHub Actions
-- Jenkins
-- Docker
-- Amazon Web Services (AWS)
-- nginx
-- Vercel
-- SonarQube
-- Figma
-- Jira
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | HTML, CSS, JavaScript, TypeScript, Python, Java, C#, SQL |
+| **Frontend** | React, Vue.js, Next.js, Nuxt, TanStack Query, Zustand, Pinia, Server-side rendering (SSR), Sass, CSS Modules, TailwindCSS, D3, Recharts, Storybook, Vite, Webpack, Rollup, ESLint, Prettier |
+| **Backend** | Node.js, Spring, .NET, MongoDB, PostgreSQL, Redis |
+| **Testing** | Jest, Vitest, Cypress, Playwright |
+| **Tools** | Git, npm, pnpm, Lerna, GitHub Actions, Jenkins, Docker, Amazon Web Services (AWS), nginx, Vercel, SonarQube, Figma, Jira |
 
 ---
 
