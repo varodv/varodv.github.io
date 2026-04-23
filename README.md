@@ -72,7 +72,7 @@ Eager to contribute to teams developing scalable and user-centric products.
 - GitHub Actions
 - Jenkins
 - Docker
-- AWS
+- Amazon Web Services (AWS)
 - nginx
 - Vercel
 - SonarQube
