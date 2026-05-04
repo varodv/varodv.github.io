@@ -28,7 +28,7 @@ Eager to contribute to teams developing scalable and user-centric products.
 
 ### Tech Lead
 
-Empathy.co, Gijón (Spain) and remote • May 2018 – February 2026 (8+ years)
+Empathy.co, Gijón (Spain) and remote • May 2018 – February 2026 (8 years)
 
 Led the technical direction and architecture for advanced search and discovery solutions deployed across high-traffic e-commerce platforms handling **10M+ daily queries**.
 
